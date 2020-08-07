@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="https://ashpool.keybase.pub/img/spike-and-ein-small.jpg">
+    <img src="https://raw.githubusercontent.com/ashpooljh/ashpooljh/master/profile.png">
 </p>
