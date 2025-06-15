@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/ashpool37/ashpool37/master/profile.png">
 </p>
 
-# Hi, my name is Artem <sup><small>[?](#more)</small></sup>
+# Hi, my name is Artem
 
 I'm a DevOps with programming and cybersecurity backgrounds. I'm passionate about [Free](https://www.gnu.org/philosophy/free-sw.en.html) and [Open Source](https://opensource.org/osd) software, self-hosted infrastructure, and decentralized systems.
 
