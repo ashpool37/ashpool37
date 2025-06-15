@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/ashpool37/ashpool37/master/profile.png">
 </p>
 
-# Hi, my name is Artem <sup><small>[?](#Name)</small></sup>
+# Hi, my name is Artem <sup><small>[?](#more)</small></sup>
 
 I'm a DevOps with programming and cybersecurity backgrounds. I'm passionate for [Free](https://www.gnu.org/philosophy/free-sw.en.html) and [Open Source](https://opensource.org/osd) software, self-hosted infrastructure, and decentralized systems.
 
@@ -43,17 +43,10 @@ _TODO: automate this list to include new merged PRs_
 
 Other code at SourceHut: https://git.sr.ht/~ashpool/
 
+<a name="more"></a>
 <details>
 
 <summary>More about me</summary>
-
-## Linux
-
-My Linux journey began circa 2012. I've hopped many distros as daily drivers over the years, including some niche ones like Gentoo and Alpine, but I've landed on Arch Linux for now as a compromise between simplicity, flexibility, and mainstream support.
-
-I haven't touched a Windows computer in years and I'm not planning to, but I'm open to buying a Mac if I ever need to do some creative heavy lifting (video editing, music production, graphic design, etc).
-
-I'm not into the Unix ricing scene, although I appreciate it. I customize my environment just enough to get the job done with minimal suffering. My dotfiles and scripts are in [dotfiles](https://github.com/ashpool37/dotfiles).
 
 ## Name
 
@@ -64,6 +57,14 @@ As for the surname... Eh, It's Zhurikhin (Журихин, Žurihin preferred in 
 Ashpool is my commonly used online handle. It refers to a patriarch of the powerful Tessier-Ashpool family in [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer), and while I've long since stopped identifying with cryonically preserved cyberpunk oligarchs, the nickname has stuck for now.
 
 My pronouns are he/him, and my identity is as boring as you can imagine.
+
+## Linux
+
+My Linux journey began circa 2012. I've hopped many distros as daily drivers over the years, including some niche ones like Gentoo and Alpine, but I've landed on Arch Linux for now as a compromise between simplicity, flexibility, and mainstream support.
+
+I haven't touched a Windows computer in years and I'm not planning to, but I'm open to buying a Mac if I ever need to do some creative heavy lifting (video editing, music production, graphic design, etc).
+
+I'm not into the Unix ricing scene, although I appreciate it. I customize my environment just enough to get the job done with minimal suffering. My dotfiles and scripts are in [dotfiles](https://github.com/ashpool37/dotfiles).
 </details>
 
 ---
