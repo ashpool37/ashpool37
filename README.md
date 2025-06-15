@@ -4,7 +4,7 @@
 
 # Hi, my name is Artem <sup><small>[?](#more)</small></sup>
 
-I'm a DevOps with programming and cybersecurity backgrounds. I'm passionate for [Free](https://www.gnu.org/philosophy/free-sw.en.html) and [Open Source](https://opensource.org/osd) software, self-hosted infrastructure, and decentralized systems.
+I'm a DevOps with programming and cybersecurity backgrounds. I'm passionate about [Free](https://www.gnu.org/philosophy/free-sw.en.html) and [Open Source](https://opensource.org/osd) software, self-hosted infrastructure, and decentralized systems.
 
 Around since 1998, based in Serbia since 2022.
 
