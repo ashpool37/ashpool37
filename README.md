@@ -6,7 +6,7 @@
 
 I'm a DevOps with programming and cybersecurity backgrounds. I'm passionate for [Free](https://www.gnu.org/philosophy/free-sw.en.html) and [Open Source](https://opensource.org/osd) software, self-hosted infrastructure, and decentralized systems.
 
-Based in Serbia since 2022 🇷🇸.
+Based in Serbia since 2022 :serbia:.
 
 # I'm looking for work.
 
