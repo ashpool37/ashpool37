@@ -2,13 +2,13 @@
     <img src="https://raw.githubusercontent.com/ashpool37/ashpool37/master/profile.png">
 </p>
 
-# Hi, my name is Artem <sup>[(more)](#Name)</sup>.
+# Hi, my name is Artem <sup><small>[?](#Name)</small></sup>
 
 I'm a DevOps with programming and cybersecurity backgrounds. I'm passionate for [Free](https://www.gnu.org/philosophy/free-sw.en.html) and [Open Source](https://opensource.org/osd) software, self-hosted infrastructure, and decentralized systems.
 
 Based in Serbia since 2022.
 
-# I'm looking for work.
+# I'm looking for work
 
 Contact me using your preferred method:
 - Telegram: https://t.me/ashpool37 (usually fastest)
@@ -39,9 +39,13 @@ _TODO: automate this list to include new merged PRs_
 - [advent-of-code-2024-racket](https://github.com/ashpool37/advent-of-code-2024-racket) (see also: https://www.naitsu.com/tags/aoc-2024/)
 - [codeforces-cxx20](https://github.com/ashpool37/codeforces-cxx20)
 
-## Other code
+## Miscellaneous
 
-https://git.sr.ht/~ashpool/
+Other code at SourceHut: https://git.sr.ht/~ashpool/
+
+<details>
+
+<summary>More about me</summary>
 
 ## Linux
 
@@ -60,6 +64,7 @@ As for the surname... Eh, It's Zhurikhin (Журихин, Žurihin preferred in 
 Ashpool is my commonly used online handle. It refers to a patriarch of the powerful Tessier-Ashpool family in [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer), and while I've long since stopped identifying with cryonically preserved cyberpunk oligarchs, the nickname has stuck for now.
 
 My pronouns are he/him, and my identity is as boring as you can imagine.
+</details>
 
 ---
 _Last updated: June 15th 2025_
