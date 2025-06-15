@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/ashpool37/ashpool37/master/profile.png">
 </p>
 
-# Hi, my name is Artem.
+# Hi, my name is Artem <sup>[(more)](#Name)</sup>.
 
 I'm a DevOps with programming and cybersecurity backgrounds. I'm passionate for [Free](https://www.gnu.org/philosophy/free-sw.en.html) and [Open Source](https://opensource.org/osd) software, self-hosted infrastructure, and decentralized systems.
 
@@ -50,6 +50,16 @@ My Linux journey began circa 2012. I've hopped many distros as daily drivers ove
 I haven't touched a Windows computer in years and I'm not planning to, but I'm open to buying a Mac if I ever need to do some creative heavy lifting (video editing, music production, graphic design, etc).
 
 I'm not into the Unix ricing scene, although I appreciate it. I customize my environment just enough to get the job done with minimal suffering. My dotfiles and scripts are in [dotfiles](https://github.com/ashpool37/dotfiles).
+
+## Name
+
+Artem (Артём [🔊](https://youtu.be/syK8j-gOSEA)) is my passport name, but my preferred spelling in the Latin script is Artjom. There's also Artyom, but I find it very awkward. The whole confusion is because of the [Ё](https://en.wikipedia.org/wiki/Yo_(Cyrillic)) letter, which is unjustly mistreated in modern Russian, and the English-centric transliteration system typically employed by the government, which makes no sense compared to the native Latin scripts of Western and Southern Slavic languages.
+
+As for the surname... Eh, It's Zhurikhin (Журихин, Žurihin preferred in Latin), and while I tolerate being called Artem, the passport version of Zhurikhin gives no clue as to how to pronounce it right, so if you can't read any of the other two spellings, don't even try.
+
+Ashpool is my commonly used online handle. It refers to a patriarch of the powerful Tessier-Ashpool family in [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer), and while I've long since stopped identifying with cryonically preserved cyberpunk oligarchs, the nickname has stuck for now.
+
+My pronouns are he/him, and my identity is as boring as you can imagine.
 
 ---
 _Last updated: June 15th 2025_
