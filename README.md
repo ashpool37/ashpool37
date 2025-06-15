@@ -13,7 +13,7 @@ Based in Serbia since 2022.
 Contact me using your preferred method:
 - Telegram: https://t.me/ashpool37 (usually fastest)
 - LinkedIn: https://www.linkedin.com/in/ashpool/
-- E-mail: github.code@ash.pw
+- E-mail: github.hire@ash.pw
 
 My homepage is at https://ash.pw, but for now there's not much to see.
 
@@ -27,7 +27,7 @@ Since I'm between jobs, I might be interested to help you for free if you have a
 - [void-linux/void-packages](https://github.com/void-linux/void-packages/pulls?q=is%3Apr+author%3Aashpool37+)
 - [GokulDas027/TelegramBridge](https://github.com/GokulDas027/TelegramBridge/pull/5)
 
-_TODO: automate this list to include new PRs_
+_TODO: automate this list to include new merged PRs_
 
 ## Open Source projects I've (co-)authored
 
