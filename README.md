@@ -68,4 +68,4 @@ I'm not into the Unix ricing scene, although I appreciate it. I customize my env
 </details>
 
 ---
-_Last updated: June 15th 2025_
+_Last updated: June 23rd 2025_
