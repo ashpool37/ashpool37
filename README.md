@@ -21,11 +21,11 @@ Since I'm between jobs, I might be interested to help you for free if you have a
 
 ## Open Source projects I've contributed to
 
+- [zed-industries/zed](https://github.com/zed-industries/zed/pulls?q=is%3Apr+author%3Aashpool37)
+- [void-linux/void-packages](https://github.com/void-linux/void-packages/pulls?q=is%3Apr+author%3Aashpool37+)
 - [hexchat/hexchat](https://github.com/hexchat/hexchat/pulls?q=is%3Apr+author%3Aashpool37)
 - [Valodim/terraform-provider-desec](https://github.com/Valodim/terraform-provider-desec/pull/8)
 - [robertdebock/ansible-role-firewall](https://github.com/robertdebock/ansible-role-firewall/pull/9)
-- [void-linux/void-packages](https://github.com/void-linux/void-packages/pulls?q=is%3Apr+author%3Aashpool37+)
-- [GokulDas027/TelegramBridge](https://github.com/GokulDas027/TelegramBridge/pull/5)
 
 _TODO: automate this list to include new merged PRs_
 
