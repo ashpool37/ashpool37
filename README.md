@@ -22,6 +22,7 @@ Since I'm between jobs, I might be interested to help you for free if you have a
 ## Open Source projects I've contributed to
 
 - [zed-industries/zed](https://github.com/zed-industries/zed/pulls?q=is%3Apr+author%3Aashpool37)
+- [ashpool37/zed-extension-opentofu](https://github.com/ashpool37/zed-extension-opentofu)
 - [void-linux/void-packages](https://github.com/void-linux/void-packages/pulls?q=is%3Apr+author%3Aashpool37+)
 - [hexchat/hexchat](https://github.com/hexchat/hexchat/pulls?q=is%3Apr+author%3Aashpool37)
 - [Valodim/terraform-provider-desec](https://github.com/Valodim/terraform-provider-desec/pull/8)
@@ -68,4 +69,4 @@ I'm not into the Unix ricing scene, although I appreciate it. I customize my env
 </details>
 
 ---
-_Last updated: June 23rd 2025_
+_Last updated: June 27th 2025_
